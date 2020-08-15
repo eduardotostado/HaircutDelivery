@@ -1,0 +1,1 @@
+Look into the 'public' folder for more information about this project.
