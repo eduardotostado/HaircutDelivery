@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafbc"
+  },
+  "name": "Ibby Strodder",
+  "email": "istrodder0@posterous.com",
+  "password": "$2y$10$rzWYrhY1vxIWQdbPz979NezHJUiwfotQzbiOJByOknt7DYz4UC2ku",
+  "address": "62 Anzinger Terrace",
+  "phone": "271-742-1714",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafbd"
+  },
+  "name": "Lynett Bickersteth",
+  "email": "lbickersteth1@shop-pro.jp",
+  "password": "$2y$10$dig04l9JF9l/DmX6YTorNu82Dri11WtW8e1WxMMmOkTHTVTtn/Wd2",
+  "address": "3 Southridge Road",
+  "phone": "168-408-4348",
+  "isStylist": true
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafbe"
+  },
+  "name": "Corey Cotte",
+  "email": "ccotte2@mac.com",
+  "password": "$2y$10$/TiKoVQN2g5VH9kbgaVAUO4sIQ8gcfW2ddC65.GG71TREIUvj/IVS",
+  "address": "9834 Eastlawn Plaza",
+  "phone": "996-661-9979",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafbf"
+  },
+  "name": "Kaila Beswick",
+  "email": "kbeswick3@technorati.com",
+  "password": "$2y$10$qWVOjiu4NlijY.If5bsbmOi8q5/6taZ85b7nsJqTiHwU8u42dRm/y",
+  "address": "347 Heffernan Junction",
+  "phone": "242-279-9683",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc0"
+  },
+  "name": "Pavla Eichmann",
+  "email": "peichmann4@marketwatch.com",
+  "password": "$2y$10$b2HHK0wEN6yJi3iqVwJWNueEF4.WPNd.0StFApU6ziqfyu.n7s0bC",
+  "address": "08082 Tomscot Way",
+  "phone": "950-895-7672",
+  "isStylist": true
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc1"
+  },
+  "name": "Arman Reynish",
+  "email": "areynish5@netscape.com",
+  "password": "$2y$10$/yf8aRZKiyTJPJg0mrYkhOAJv2DGGO9J340gEy5WrXnItH9EawKvS",
+  "address": "178 Farragut Drive",
+  "phone": "683-622-4376",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc2"
+  },
+  "name": "Jo Kintzel",
+  "email": "jkintzel6@so-net.ne.jp",
+  "password": "$2y$10$LdukVYD6LGpPLVunt1AFX.tE2peO.Kd1su83lNYWBSmVdMCKhsogW",
+  "address": "2 Dunning Parkway",
+  "phone": "913-303-7834",
+  "isStylist": true
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc3"
+  },
+  "name": "Marianne Mitchell",
+  "email": "mmitchell7@elegantthemes.com",
+  "password": "$2y$10$3hhoRAa.i7ETQCtDsOT4xumqaGPzqK/IIQkG1H0G6bLaq/g0YzZry",
+  "address": "6 Rowland Plaza",
+  "phone": "978-718-0817",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc4"
+  },
+  "name": "Hillary Dollman",
+  "email": "hdollman8@friendfeed.com",
+  "password": "$2y$10$JejSkkw6KtYvRgwd6DbdvOBD0HH3JckhUKi3ahHD.UUQFnfIeaW.u",
+  "address": "52768 Lindbergh Junction",
+  "phone": "504-831-4246",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc5"
+  },
+  "name": "Hyacinthe Presho",
+  "email": "hpresho9@phpbb.com",
+  "password": "$2y$10$jWsqoVVkNFTQd8n6aRu/Le1YEUIpaG6az9CXt6zyFltSN1WOK0o4G",
+  "address": "790 Merrick Junction",
+  "phone": "811-633-6925",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc6"
+  },
+  "name": "Rodi Heinschke",
+  "email": "rheinschkea@twitpic.com",
+  "password": "$2y$10$MCIqf.wfe86.JuQjFUSyqeEZtOQ2gKEHEGpcp3Bf3wfTjVgz9jDqC",
+  "address": "5576 Dawn Circle",
+  "phone": "830-640-4905",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc7"
+  },
+  "name": "Florida Sanday",
+  "email": "fsandayb@usgs.gov",
+  "password": "$2y$10$0k.1nc8/xH2IPBKytNV5Oez7B/NNgxuy18fEzlQGWAkWNF.2sH/qq",
+  "address": "1156 Bayside Street",
+  "phone": "226-253-5566",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc8"
+  },
+  "name": "Gussi O'Rowane",
+  "email": "gorowanec@youtube.com",
+  "password": "$2y$10$je8woV5nvS4HvYcDvsV0Xe.pJJfBuAhxIouVrTmauTxB4UhXz2sCu",
+  "address": "54555 Kinsman Terrace",
+  "phone": "592-409-9590",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafc9"
+  },
+  "name": "Niki Lowry",
+  "email": "nlowryd@wp.com",
+  "password": "$2y$10$JOPDfMQr69YsfqJdO5XEWOvFwf/lC4H1UU3n56Njrf56ozXWDEpi.",
+  "address": "19 Harbort Street",
+  "phone": "477-369-1132",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafca"
+  },
+  "name": "Beitris Lamplough",
+  "email": "blamploughe@lulu.com",
+  "password": "$2y$10$iiafxlP/qDOuoxSFGxWcFe9Jo4U26xjvPy8ERhzcfCjX4ofsv5XSe",
+  "address": "1265 Northview Crossing",
+  "phone": "726-517-4550",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafcb"
+  },
+  "name": "Burtie Mash",
+  "email": "bmashf@rediff.com",
+  "password": "$2y$10$vgfmFVvLaH5NmTHikHfad.ckhgcDmrjS8vrIaeATTjAC1okRcyGE6",
+  "address": "5333 Schiller Avenue",
+  "phone": "905-482-2418",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafcc"
+  },
+  "name": "Fionnula Braine (test stylist2)",
+  "email": "teststylist2@email.com",
+  "password": "$2y$10$BtSAQaR7/j4eK7ADNhXkpewwAip6ied3ZLAQ3jaLubfwQAaUFR0Oq",
+  "address": "20 Arizona Terrace",
+  "phone": "138-239-2811",
+  "isStylist": true
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafcd"
+  },
+  "name": "Lindsay Worsell (test client2)",
+  "email": "testclient2@email.com",
+  "password": "$2y$10$WCcxQZSCamHc6qRGGvfX/.IVJqDGQnCihbtieKVOxc8yw3OrqhqnG",
+  "address": "463 Dayton Trail",
+  "phone": "852-271-0872",
+  "isStylist": false
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafce"
+  },
+  "name": "Rosanne Lattey (test stylist1)",
+  "email": "teststylist1@email.com",
+  "password": "$2y$10$jtZIIOD3ofMGNLBDtH58uux4Kkmy0AxGRH5QYMaP1guwXnDyJR1oS",
+  "address": "66196 Scofield Way",
+  "phone": "180-168-3184",
+  "isStylist": true
+},{
+  "_id": {
+    "$oid": "5eaaf2afbe64f312f4adafcf"
+  },
+  "name": "Konrad Mingard (test client1)",
+  "email": "testclient1@email.com",
+  "password": "$2y$10$MB/ZlRsTa1ShhbWJZIjqb..s6kGNZOhaeD0j25vCL5rrhtEflT8sO",
+  "address": "23400 Twin Pines Drive",
+  "phone": "968-455-0251",
+  "isStylist": false
+}]
